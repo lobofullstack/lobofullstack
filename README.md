@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Lucas! (ou Sky, para os amigos)
+# 👋 Olá, eu sou o Lucas! (Lobo ou Sky, para os amigos)
 
 Sou desenvolvedor com foco em **Java**, **SQL** e **PL/SQL**, apaixonado por tecnologia, marketing digital e criação de conteúdo. Estou sempre buscando evoluir como programador e empreendedor digital.
 
