@@ -10,34 +10,15 @@
 
 I’m a developer focused on Java , SQL , and PL/SQL , passionate about technology, digital marketing, and content creation. I'm always looking to grow both as a programmer and a digital entrepreneur.
 
-## 💻 Technologies and Tools
-- **Back-end**: Java, SQL, PL/SQL
-- **Front-end**: HTML, CSS, JavaScript, TypeScript
-- **Databases**: Oracle, MongoDB
-- **Others**: Jasper Reports, JWT, Git, GitHub
+## 🎓  Lifelong Learner
 
----
+One of the things I'm most passionate about is continuous learning. Since the beginning of my journey, I've been fascinated by the impacts that new technologies can have on our daily lives, so I continue to study continuously to keep up with the innovations that are coming every day.
 
-## 🚀 What I'm Studying
-- Java architecture and code best practices
-- MongoDB with Java web applications
-- JWT and secure authentication
-- Automation of routines and report generation
-- REST API integration
+## 📚  What will you find here?
 
----
+This GitHub is more than just a code repository — it’s a reflection of my journey, my accumulated experiences, and my commitment to creating clean, efficient, and purposeful software. Whether you’re a recruiter, a fellow developer, or someone looking to learn, here you’ll find an authentic reflection of my dedication and passion for technology.
 
-## 📈 Parallel Interests
-Besides programming, I also focus on:
-- Paid Traffic and Copywriting
-- E-commerce & Dropshipping
-- Sales Automation via WhatsApp
-- Creating Conversion-Focused Landing Pages
-
-## 🎮 Content Creator
- - 🎥 [**O Lobo Gamer**](https://www.youtube.com/@OLobo_Gamer) – A channel focused on reviews and gameplay. I also use it to apply my programming and digital monetization skills through affiliate links (Amazon, Shopee, AliExpress, and Mercado Livre).
-
-## 📚 Always Learning
+## 📖 Always Learning
 I study English for professional and casual communication, and I'm always exploring new ways to combine programming, marketing, and online sales .
 
 ---
