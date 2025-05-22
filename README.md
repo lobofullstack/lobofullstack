@@ -1,4 +1,41 @@
-# Hello World, I'm Lucas, be very welcome.
+# 👋 Olá, eu sou o Lucas! (ou Sky, para os amigos)
+
+Sou desenvolvedor com foco em **Java**, **SQL** e **PL/SQL**, apaixonado por tecnologia, marketing digital e criação de conteúdo. Estou sempre buscando evoluir como programador e empreendedor digital.
+
+## 💻 Tecnologias e Ferramentas
+- **Back-end**: Java, SQL, PL/SQL
+- **Front-end**: HTML, CSS, JavaScript, TypeScript
+- **Banco de Dados**: Oracle, MongoDB
+- **Outros**: Jasper Reports, JWT, Git, GitHub
+
+---
+
+## 🚀 O que estou estudando
+- Arquitetura Java e boas práticas de código
+- MongoDB com aplicações Java Web
+- JWT e autenticação segura
+- Automatização de rotinas e geração de relatórios
+- Integração com APIs REST
+
+---
+
+## 📈 Interesses paralelos
+Além da programação, me dedico aos estudos em:
+- Tráfego Pago e Copywriting
+- E-commerce & Dropshipping
+- Automação de Vendas via WhatsApp
+- Criação de Landing Pages focadas em conversão
+
+## 🎮 Criador de Conteúdo
+- 🎥 [**O Lobo Gamer**](https://www.youtube.com/@olobogamer) – Canal focado em reviews e gameplay. Também aproveito para integrar minhas habilidades com programação e monetização digital via links de afiliado (Amazon, Shopee, Aliexpress e Mercado Livre).
+
+## 📚 Em constante aprendizado
+Estudo inglês para comunicação profissional e casual, e estou sempre explorando novas formas de unir **programação, marketing e vendas online**.
+
+---
+
+📫 Me chama para trocar ideia sobre programação, tecnologia ou empreendedorismo digital!  
+
 
 <div>
   <a href="https://beacons.ai/o_lobo">
