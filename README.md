@@ -3,7 +3,7 @@
 <div>
   <a href="https://beacons.ai/o_lobo">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lobofullstack&show_icons=true&layout=compact&langs_count=6&theme=dark"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobofullstack&layout=compact&langs_count=6&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobofullstack&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
