@@ -8,22 +8,20 @@
 
 ## 👨🏻‍💻  About Me
 
-I’m a developer focused on Java , SQL , and PL/SQL , passionate about technology, digital marketing, and content creation. I'm always looking to grow both as a programmer and a digital entrepreneur.
+I’m a developer passionate about turning ideas into real, functional projects. I started coding a few years ago, and that spark quickly became a lifelong passion. Since then, I’ve been committed to growing every day, staying up to date with new technologies, and constantly evolving as a programmer. With discipline and focus, I aim to create solutions that are not only efficient, but meaningful and impactful in the real world.
 
 ## 🎓  Lifelong Learner
 
-One of the things I'm most passionate about is continuous learning. Since the beginning of my journey, I've been fascinated by the impacts that new technologies can have on our daily lives, so I continue to study continuously to keep up with the innovations that are coming every day.
+One of the things that motivates me most is continuous learning in programming. Since the beginning of my journey, I’ve been passionate about how code — both backend and frontend — can solve real problems and improve everyday experiences. That’s why I’m constantly studying new technologies, tools, and best practices to become a more complete developer and deliver clean, efficient, and meaningful software.
+
+## 📖 Always Learning
+
+I study English for professional and casual communication, and I'm always exploring new ways to combine programming, marketing, and online sales .
 
 ## 📚  What will you find here?
 
-This GitHub is more than just a code repository — it’s a reflection of my journey, my accumulated experiences, and my commitment to creating clean, efficient, and purposeful software. Whether you’re a recruiter, a fellow developer, or someone looking to learn, here you’ll find an authentic reflection of my dedication and passion for technology.
-
-## 📖 Always Learning
-I study English for professional and casual communication, and I'm always exploring new ways to combine programming, marketing, and online sales .
-
----
-
-📫 Feel free to reach out if you want to chat about programming, technology, or digital entrepreneurship!  
+This GitHub is more than just a place where I store code — it’s a record of my growth as a developer, my everyday challenges, and the knowledge I’ve gained through real-world experience. As a backend-focused Java developer working with SQL and PL/SQL, I’m always seeking clean, scalable, and well-structured solutions.
+Here you’ll find projects, experiments, and ideas that reflect not only my technical skills but also my commitment to becoming a better developer every day. Whether you're a recruiter, a fellow dev, or someone who shares a passion for building smart and meaningful software — welcome!
 
 ## 🛠️ Tech Stack
 
