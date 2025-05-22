@@ -38,9 +38,9 @@ Here you’ll find projects, experiments, and ideas that reflect not only my tec
 
 ![Java](https://img.shields.io/badge/Java-323330?style=flat&logo=openjdk&logoColor=red)
 ![SQL](https://img.shields.io/badge/-SQL-323330?)
-![PLSQL](https://img.shields.io/badge/PL/SQL-323330?)
-![MongoDB](https://camo.githubusercontent.com/4368afa077506070b51e1cde7479b2de4b8efb7ec45433f878c3ed564612d056/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3333333333333f7374796c653d666c6174266c6f676f3d6d6f6e676f6462)
+![PLSQL](https://img.shields.io/badge/PL/SQL-323330?style=flat&logo=oracle&logoColor=black)
 ![PostgreSQL](https://camo.githubusercontent.com/ab1bc181e003a1bd21b603af4931dbd22096ae6022a11541ffbdeac77894aaf0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f737467726553514c2d3333333333333f7374796c653d666c6174266c6f676f3d706f737467726573716c)
+![MongoDB](https://camo.githubusercontent.com/4368afa077506070b51e1cde7479b2de4b8efb7ec45433f878c3ed564612d056/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3333333333333f7374796c653d666c6174266c6f676f3d6d6f6e676f6462)
 ![Linux](https://img.shields.io/badge/Linux-323330?style=flat&logo=linux&logoColor=white)
 
 ## 📊  My GitHub Stats
