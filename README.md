@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobofullstack&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img src="https://img.icons8.com/color/2x/html-5.png" width="90" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="90" alt="CSS3">
   <img src="https://img.icons8.com/fluency/48/javascript.png" width="90" alt="JavaScript"/>
