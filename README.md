@@ -1,6 +1,14 @@
-# 👋 Olá, eu sou o Lucas! (Lobo ou Sky, para os amigos)
+# 👋 Hi, I'm Lucas! (Wolf or Sky, for friends)
+<p align="center">
+  <a href="https://www.youtube.com/@OLobo_Gamer" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/c628ctpS" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:lucas.silva.swr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucassilva1995/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
 
-Sou desenvolvedor com foco em **Java**, **SQL** e **PL/SQL**, apaixonado por tecnologia, marketing digital e criação de conteúdo. Estou sempre buscando evoluir como programador e empreendedor digital.
+## 👨🏻‍💻  About Me
+
+I’m a developer focused on Java , SQL , and PL/SQL , passionate about technology, digital marketing, and content creation. I'm always looking to grow both as a programmer and a digital entrepreneur.
 
 ## 💻 Tecnologias e Ferramentas
 - **Back-end**: Java, SQL, PL/SQL
@@ -55,9 +63,4 @@ Estudo inglês para comunicação profissional e casual, e estou sempre exploran
   
   ##
  
-<div> 
-  <a href="https://www.youtube.com/@OLobo_Gamer" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/c628ctpS" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lucas.silva.swr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucassilva1995/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
