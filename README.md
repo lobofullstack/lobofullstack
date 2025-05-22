@@ -36,6 +36,7 @@ Estudo inglês para comunicação profissional e casual, e estou sempre exploran
 
 📫 Me chama para trocar ideia sobre programação, tecnologia ou empreendedorismo digital!  
 
+## 📊 GitHub Stats
 
 <div>
   <a href="https://beacons.ai/o_lobo">
